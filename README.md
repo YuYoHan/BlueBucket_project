@@ -10,8 +10,9 @@
 
 ---
 # 링크
-## Velog 주소
-[프로젝트 블로그](https://velog.io/@zxzz45/series/%EC%B7%A8%EC%97%85%ED%95%98%EC%9E%90)
+## 블로그 주소
+[Velog](https://velog.io/@zxzz45/series/%EC%B7%A8%EC%97%85%ED%95%98%EC%9E%90) <br/>
+[노션](https://www.notion.so/2cb431087e0e46889ba6db9eed366b59?v=2f75e5bcd9b74afc8c9a828085c2b467)
 
 ---
 # 백엔드 소개
